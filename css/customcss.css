@@ -12,5 +12,12 @@ body {
 .button {
     font-weight: 700;
     color: #3F87F5;
-    ;
+}
+
+.bright {
+    filter: brightness(50%);
+}
+
+.services {
+    text-align: center;
 }
