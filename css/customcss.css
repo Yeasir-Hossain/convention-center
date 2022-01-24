@@ -86,3 +86,12 @@ footer {
     font-size: 14px;
     background-color: black;
 }
+
+
+/* media query */
+
+@media only screen and (max-width: 600px) {
+    .hot {
+        transform: scale(0.9);
+    }
+}
