@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Manrope:wght@500&family=Poppins:wght@600;700&family=Roboto:wght@700&display=swap');
 
 /* font-family: 'Inter', sans-serif;
-font-family: 'Manrope', sans-serif;
+
 font-family: 'Poppins', sans-serif;
 font-family: 'Roboto', sans-serif; */
 
@@ -28,7 +28,8 @@ body {
 /* services styles */
 
 .services {
-    margin-top: 100px;
+    margin-top: 10%;
+    margin-bottom: 10%;
 }
 
 
@@ -80,4 +81,14 @@ body {
 
 .faq {
     font-family: 'Inter';
+}
+
+
+/* footer styles */
+
+footer {
+    font-family: 'Manrope';
+    color: #D9DBE1;
+    font-size: 14px;
+    background-color: black;
 }
